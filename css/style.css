@@ -56,7 +56,13 @@
 .contact-bg
 {
 	/*background-image: linear-gradient(180deg, #c6f1e7, #70acb1);*/
-	color: #a888ff;
+	color: #303841;
 	background-color: #8bdeff;
 }
-.
+
+@media only screen and (max-width: 768px) {
+	.my_decrip 
+	{
+		text-align: center;
+	}
+}
